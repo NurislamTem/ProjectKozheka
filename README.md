@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For kohzek</title>
-    <link rel="stylesheet" href="ProjectK.css">  
+    <link rel="stylesheet" href="ProjectK.css.css">  
     <script>
         var buttonTexts = ['Are u sure?...', 'Really sure? ', 'Think again!','Last chance!!!','This could be missclick'];
         var currentTextIndex = 0;
